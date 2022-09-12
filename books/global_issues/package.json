@@ -1,0 +1,8 @@
+{
+  "name": "global_issues",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2"
+  }
+}
