@@ -1,4 +1,7 @@
 {
   "name": "global_issues",
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
 }

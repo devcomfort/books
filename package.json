@@ -3,7 +3,7 @@
   "packageManager": "yarn@3.2.3",
   "workspaces": {
     "packages": [
-      "books/**"
+      "books/global_issues"
     ]
   }
 }
