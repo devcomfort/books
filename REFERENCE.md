@@ -17,6 +17,14 @@
   이 글은 *yarn berry*를 설치하는 법부터 *yarn berry workspace*를 통해 모노레포를 구성하는 법,
   _yarn berry workspace_ 명령을 올바르게 사용하기 위해 알아야 하는 _hoist_ 등의 개념을 모두 포함해 설명하고 있습니다. <br>
   `모노레포 도입을 위한 모든 내용`으로써의 의미가 큰 글입니다.
+- [모던 프론트엔드 프로젝트 구성 기법 - 모노레포 도구 편 - 네이버 기술 블로그](https://d2.naver.com/helloworld/7553804)
+  `Yarn Berry`를 포함한 모노레포 도구에 대한 설명과 명령어가 상세히 나옵니다. <br>
+  명령어에 대해 힘 안 들이고 해석하고 시도해보고 싶다면 이 문서를 참조해보세요. <br>
+  아래 4가지 도구에 대한 내용을 다룹니다.
+  - [Yarn](https://d2.naver.com/helloworld/7553804#ch1)
+  - [Lerna](https://d2.naver.com/helloworld/7553804#ch2)
+  - [Nx](https://d2.naver.com/helloworld/7553804#ch3)
+  - [Turborepo](https://d2.naver.com/helloworld/7553804#ch4)
 
 ## 2.1. 호이스팅
 
