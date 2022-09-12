@@ -1,5 +1,6 @@
 - [1. TL;DR](#1-tldr)
 - [2. 모노레포](#2-모노레포)
+  - [2.1. 호이스팅](#21-호이스팅)
 
 # 1. TL;DR
 
@@ -16,3 +17,11 @@
   이 글은 *yarn berry*를 설치하는 법부터 *yarn berry workspace*를 통해 모노레포를 구성하는 법,
   _yarn berry workspace_ 명령을 올바르게 사용하기 위해 알아야 하는 _hoist_ 등의 개념을 모두 포함해 설명하고 있습니다. <br>
   `모노레포 도입을 위한 모든 내용`으로써의 의미가 큰 글입니다.
+
+## 2.1. 호이스팅
+
+- [node_modules로부터 우리를 구원해 줄 Yarn Berry - Toss Tech](https://toss.tech/article/node-modules-and-yarn-berry) <br>
+  _호이스팅_ 개념을 이해하기 위해 문서를 찾고있던 중 찾은 문서입니다. <br>
+  _유령 의존성 (Phantom Dependency)_ 내용을 이해함으로써 *호이스팅*의 개념을 이해할 수 있습니다. <br><br>
+  이러한 내용을 제외하더라도 `Yarn Berry`에 대한 다양한 내용을 포함하고 있습니다. <br>
+  `Yarn Berry`에 대해 깊게 파보고 싶다면, [이 문서](https://toss.tech/article/node-modules-and-yarn-berry)를 확인해보세요.
