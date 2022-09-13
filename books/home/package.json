@@ -1,4 +1,10 @@
 {
   "name": "home",
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "scripts": {
+    "serve": "yarn docsify serve"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
 }
