@@ -3,6 +3,7 @@
 <h2> Contents </h2>
 
 - [NOTE](#note)
+- [PROGRESS](#progress)
 - [Basic Informations](#basic-informations)
 - [Materials Informations](#materials-informations)
   - [About _Calendar_ and _Lecture Resources_](#about-calendar-and-lecture-resources)
@@ -15,12 +16,23 @@
   - [Test (50%)](#test-50)
 - [Curves 1](#curves-1)
 - [Curves 2](#curves-2)
+- [Warning!](#warning)
+- [Our Duties](#our-duties)
+  - [My Job](#my-job)
+  - [Your Job](#your-job)
 
 ## NOTE
 
 - This document has no image yet.
   Because I don't have any cloud to store media files that images, etc.
 - This document is not a summary, is a copy of presentation file at the E-Class.
+
+## PROGRESS
+
+- [ ] Type `original presentation file`
+- [ ] Translate to `Korean`
+- [ ] Summarize in `single file`.
+- [ ] `ID Card` doesn't supported yet.
 
 ## Basic Informations
 
@@ -219,3 +231,38 @@ Thus, if you don't do homework on time, don't study for tests, etc., and get a 5
 
 > **Remaining** <br>
 > Page 11, 12, 13, _translation_, and _summarization_ are remaining.
+
+## Warning!
+
+Every semester that I've taught this course, the same thing has happend. A student is not diligent, doesn't do homework, misses quizzes, etc. Then, they see their final grade and are disappointed by it. <br>
+Only then do they start to care about their grade!
+
+They suddenly feel very diligent and spring into action! _"Mr. Parish, is there any extre credit work I can do in the next day or two to help me get a higher grade? Please! Please! I need a higher grade! If I don't get one, something horribile will happen to me!"_
+
+I absoloutely hate this type of behavior. It is the worst that a young adult university student can exhabit.
+
+Not only is this childish, but it's rather offensive considering the amount of work most students _and_ I put into this course. I give you many chances to choose your homework assignments, and I am available many hours per day to help you with your questions. Suddenly, after a hard semester of long work, you want me to give you an assignment and grade it really quickly at one of the times of the year that I'm busiest? How rude!
+
+In addition, it would be quite unethical for me to give you such a chance without offering it to all of the other students in the class. Do you think I want to grade 10 or 20 extra credit projects on the last day of final grades? Nope!
+
+If you ask me to do this at the end of the semester, I will simply email you this page.
+
+Please, keep me informed of your troubles in this class, ask questions, and help us solve problems early!
+
+## Our Duties
+
+### My Job
+
+1. Let you know about our schedule and what you need to do for assignments, tests, etc.
+2. Answer your questions about your attendance, assignments, and grades as well as I can.
+3. Give you feedback on your assignments and tests as quickly and clearly at possible.
+4. Notify you of changes in class policy , the schedule, etc., as quickly as possible.
+5. Other you the opportunity to learn as much as you can.
+
+### Your Job
+
+1. Ask me questions about our schedule. and what you need to do for assignments, tests, etc.
+2. Ask me questions about the schedule, your attendance, assignment grades, etc., when you have them.
+3. Ask me questions about feedback on your assignments and tests when you have them.
+4. Check E-Class at least once a week so you know what's happening in class and what is required from you (_"I didn't know," is no excuse!_)
+5. Use every opportunity to learn as much as you can in this class.
