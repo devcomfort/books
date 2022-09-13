@@ -1,2 +1,2 @@
-- [Home](/)
+- [Home (Contents)](/)
 - [Intro](libs/intro.md)
