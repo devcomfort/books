@@ -14,7 +14,7 @@
 
 # 정리 중
 
-- [Global Issues](/global_issues)
+- <a href="/global_issues">Global Issues</a>
 
 # 정리 완료
 
