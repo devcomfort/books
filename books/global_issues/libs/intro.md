@@ -65,7 +65,7 @@ Even more good news! Global Issues is now a three-credit course! Yay! You get th
 
 Sadly, you will not see me in the classroom for three hours a week, so you'll just have to go home and stare at this picture instead.
 
-We will meet for two hours every Friday. The other hour is a 25-minute lecture you'll have to watch every week. At the end of the pre-recorded Zoom lecture is an assignment. On average, each assignment will take at least 50 minutes, and probably more. You will have to complete seven (7) of the 13 assignments I give you this semester.
+We will meet for two hours every Friday. The other hour is a 25-minute lecture you'll have to watch every week. At the end of the pre-recorded Zoom lecture is an assignment. On average, each assignment will take at least 50 minutes, and probably more. You will have to complete seven (7) of the 14 assignments I give you this semester.
 
 > **Important!** <br>
 > Whether or not you do an assignment for a lecture, you must still watch the lecture! If you don't, E-class will automatically count you absent.
@@ -163,7 +163,7 @@ Most students who get A+, A, and B+ grades are active in class, too.
 
 ### Homework (10%) - Pre-Recorded Lecture Assignments
 
-I will give you 13 homework (AKA "HW") assignments this semester. You choose seven (7) of them. Please do al seven assignmetns! <br>
+I will give you 14 homework (AKA "HW") assignments this semester. You choose seven (7) of them. Please do al seven assignmetns! <br>
 Students who skip one or two assignments ofteh get C's, and those who those who skip more often get D's or F's. <br>
 
 You **CANNOT** do eight or more assignments to get extra points or replace a bad HW grade. <br>
@@ -228,9 +228,6 @@ The bad news is that I have less flexibility to _"help"_ you if you are on the b
 | F     | 0 ~ 59%    |
 
 Thus, if you don't do homework on time, don't study for tests, etc., and get a 58%, there is _NOTHING_ I can do to help you. I can't change the grade range at all. Don't be one of those sad cases of a student who is lazy and fails this courses by a more 2%! Study hard! Do your homework! Keep up with the class!
-
-> **Remaining** <br>
-> Page 11, 12, 13, _translation_, and _summarization_ are remaining.
 
 ## Warning!
 
