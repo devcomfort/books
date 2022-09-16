@@ -1,8 +1,7 @@
 <h1> Books@devcomfort </h1>
 
 - [페이지 소개](#페이지-소개)
-- [정리 중](#정리-중)
-- [정리 완료](#정리-완료)
+- [Books](#books)
 
 # 페이지 소개
 
@@ -12,10 +11,8 @@
 
 학부, 학원 과정에서 공부 중인 내용과 개인적으로 공부하는 내용을 다룰 예정입니다.
 
-# 정리 중
+# Books
 
-- <a href="/global_issues">Global Issues</a>
-
-# 정리 완료
-
-정보 없음
+| Subject                                    | Progress      |
+| ------------------------------------------ | ------------- |
+| <a href="/global_issues">Global Issues</a> | `in Progress` |
