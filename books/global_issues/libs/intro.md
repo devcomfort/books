@@ -3,7 +3,6 @@
 <h2> Contents </h2>
 
 - [NOTE](#note)
-- [PROGRESS](#progress)
 - [Basic Informations](#basic-informations)
 - [Materials Informations](#materials-informations)
   - [About _Calendar_ and _Lecture Resources_](#about-calendar-and-lecture-resources)
@@ -26,13 +25,6 @@
 - This document has no image yet.
   Because I don't have any cloud to store media files that images, etc.
 - This document is not a summary, is a copy of presentation file at the E-Class.
-
-## PROGRESS
-
-- [ ] Type `original presentation file`
-- [ ] Translate to `Korean`
-- [ ] Summarize in `single file`.
-- [ ] `ID Card` doesn't supported yet.
 
 ## Basic Informations
 
