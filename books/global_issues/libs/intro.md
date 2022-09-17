@@ -46,7 +46,7 @@ I'm at [anparoikos@gmail.com](mailto:anparoikos@gmail.com). You can also leave m
 If you have a simple question, you can also call me at [010-2867-0341](tel:01028670341). If I don't answer, please send me a text. I'm also on _What's App_ and _KakaoTalk_.
 
 <font color="red">
-Note: I grenerally have my phone off or on <b>"Do Not Distrub"</b> mode from 10:00 PM to 9:00 AM. If you call or text too late or too early, I probably won't answer your message very quickly. Please plan ahead if you have questions about homework, quizzes, tests, etc.
+Note: I generally have my phone off or on <b>"Do Not Distrub"</b> mode from 10:00 PM to 9:00 AM. If you call or text too late or too early, I probably won't answer your message very quickly. Please plan ahead if you have questions about homework, quizzes, tests, etc.
 </font>
 
 ## Materials Informations
