@@ -13,6 +13,6 @@
 
 # Books
 
-| Category  | Subject                                    | Progress      |
-| --------- | ------------------------------------------ | ------------- |
-| 학교 수업 | <a href="/global_issues">Global Issues</a> | `in Progress` |
+| Category  | Subject                                      | Progress      |
+| --------- | -------------------------------------------- | ------------- |
+| 학교 수업 | <a href="/#/global_issues">Global Issues</a> | `in Progress` |
