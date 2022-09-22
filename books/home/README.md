@@ -13,6 +13,7 @@
 
 # Books
 
-| Category  | Subject                                    | Progress      |
-| --------- | ------------------------------------------ | ------------- |
-| 학교 수업 | <a href="/global_issues">Global Issues</a> | `in Progress` |
+| Category  | Subject                                         | Progress      |
+| --------- | ----------------------------------------------- | ------------- |
+| 학교 수업 | <a href="/global_issues">Global Issues</a>      | `in Progress` |
+| 학교 수업 | <a href="/sw_practice2">소프트웨어개발실습2</a> | `in Progress` |

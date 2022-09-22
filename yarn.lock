@@ -117,6 +117,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"ai_models_and_techs@workspace:books/ai_models_and_techs":
+  version: 0.0.0-use.local
+  resolution: "ai_models_and_techs@workspace:books/ai_models_and_techs"
+  dependencies:
+    docsify-cli: ^4.4.4
+  languageName: unknown
+  linkType: soft
+
 "ansi-align@npm:^3.0.0":
   version: 3.0.1
   resolution: "ansi-align@npm:3.0.1"
@@ -527,6 +535,12 @@ __metadata:
   checksum: 0283879f55e7c16fdceacc181f87a0a65c53bc16ffe1d58b9d19a6277adcd71900d02bb2c4843dd55e78c51e30e89b0fec618a7f170ebcc95b33182c28f05fd6
   languageName: node
   linkType: hard
+
+"data_structure_and_algorithm@workspace:books/data_structure_and_algorithm":
+  version: 0.0.0-use.local
+  resolution: "data_structure_and_algorithm@workspace:books/data_structure_and_algorithm"
+  languageName: unknown
+  linkType: soft
 
 "debug@npm:2.6.9":
   version: 2.6.9
@@ -1626,6 +1640,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"neural_network_theory@workspace:books/neural_network_theory":
+  version: 0.0.0-use.local
+  resolution: "neural_network_theory@workspace:books/neural_network_theory"
+  dependencies:
+    docsify-cli: ^4.4.4
+  languageName: unknown
+  linkType: soft
+
 "node-fetch@npm:^2.6.6":
   version: 2.6.7
   resolution: "node-fetch@npm:2.6.7"
@@ -2253,6 +2275,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"sw_practice2@workspace:books/sw_practice2":
+  version: 0.0.0-use.local
+  resolution: "sw_practice2@workspace:books/sw_practice2"
+  dependencies:
+    docsify-cli: ^4.4.4
+  languageName: unknown
+  linkType: soft
+
 "tar@npm:^6.1.11, tar@npm:^6.1.2":
   version: 6.1.11
   resolution: "tar@npm:6.1.11"
@@ -2418,6 +2448,14 @@ __metadata:
   checksum: c81095493225ecfc28add49c106ca4f09cdf56bc66731aa8dabc2edbbccb1e1bfe2de6a115e5c6a380d3ea166d1636410b62ef216bb07b3feb1cfde1d95d5080
   languageName: node
   linkType: hard
+
+"uxui_design@workspace:books/uxui_design":
+  version: 0.0.0-use.local
+  resolution: "uxui_design@workspace:books/uxui_design"
+  dependencies:
+    docsify-cli: ^4.4.4
+  languageName: unknown
+  linkType: soft
 
 "webidl-conversions@npm:^3.0.0":
   version: 3.0.1
