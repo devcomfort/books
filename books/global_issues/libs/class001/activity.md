@@ -15,7 +15,8 @@
 
 Look at the conversation below. Each one has a person using a fallacy while arguing. Which fallacy is being used in each conversation? Some conversations may have more then one fallacy.
 
-아래 대화를 읽어보세요. 대화 참여자 중 하나는 논리적 오류를 범하고 있습니다. 대화 속에서 어떤 오류가 나타나고 있나요? 어떤 경우에는 하나 이상의 오류가 있을 수도 있습니다!
+아래의 각 대화에서 대화 참여자 중 하나는 논리적 오류를 범하고 있습니다. <br>
+어떤 오류인지 확인해보세요. 상황에 따라 복수 가지의 오류가 있을 수도 있습니다.
 
 ## Conversation A
 
