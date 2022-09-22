@@ -39,7 +39,7 @@
    <!-- O/T -->
    <tr>
       <td>
-         <a href="/#/libs/intro">
+         <a href="#/libs/intro">
             O/T (ENG)
          </a>
       </td>
@@ -50,7 +50,7 @@
    <!-- First Class -->
    <tr>
       <td>
-         <a href="/#/libs/class001/ko">Class #01</a>
+         <a href="#/libs/class001/ko">Class #01</a>
       </td>
       <td>
          <code>N/A</code>
