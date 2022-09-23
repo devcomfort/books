@@ -11,4 +11,5 @@
 
 # 수업 내용 정리
 
-- [O/T](course/class001.md): *Matlab*에 대한 간략한 설명, 특징 3가지 소개
+- [O/T](course/class001): *Matlab*에 대한 간략한 설명, 특징 3가지 소개
+- [첫번째 수업](course/class002)
