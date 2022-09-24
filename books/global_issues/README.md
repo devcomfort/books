@@ -1,5 +1,8 @@
 <h1>Global Issues 101</h1>
 
+> _Global Issues 101_ 수업은 많은 내용을 *수업 자료실*에 가지고 있습니다. <br>
+> 정리할 때 참고하세요!
+
 <h2> Contents </h2>
 
 - [About This Page; 이 페이지에 대하여](#about-this-page-이-페이지에-대하여)
