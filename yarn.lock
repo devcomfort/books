@@ -225,6 +225,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "books@workspace:."
   dependencies:
+    docsify-cli: ^4.4.4
     global: ^4.4.0
   languageName: unknown
   linkType: soft
@@ -536,12 +537,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"data_structure_and_algorithm@workspace:books/data_structure_and_algorithm":
-  version: 0.0.0-use.local
-  resolution: "data_structure_and_algorithm@workspace:books/data_structure_and_algorithm"
-  languageName: unknown
-  linkType: soft
-
 "debug@npm:2.6.9":
   version: 2.6.9
   resolution: "debug@npm:2.6.9"
@@ -699,14 +694,6 @@ __metadata:
   checksum: d5775790093c234ef4bfd5fbe40884ff7e6c87573e5339432870616331189f7f5d86575c5b5af2dcf0f61172990f4f734d07844b1f23482fff09e3c4bead05ea
   languageName: node
   linkType: hard
-
-"dsu@workspace:books/dsu":
-  version: 0.0.0-use.local
-  resolution: "dsu@workspace:books/dsu"
-  dependencies:
-    docsify-cli: ^4.4.4
-  languageName: unknown
-  linkType: soft
 
 "duplexer3@npm:^0.1.4":
   version: 0.1.5
@@ -1072,14 +1059,6 @@ __metadata:
   checksum: 5eb1d0bb8518103d7da24532bdbc7124ffc6d367b5d3c10840b508116f2f1bcbcf10fd3ba843ff6e2e991bdf9969fd862d42b2ed58aade88343326c950b7e7f7
   languageName: node
   linkType: hard
-
-"home@workspace:books/home":
-  version: 0.0.0-use.local
-  resolution: "home@workspace:books/home"
-  dependencies:
-    docsify-cli: ^4.4.4
-  languageName: unknown
-  linkType: soft
 
 "http-cache-semantics@npm:^4.0.0, http-cache-semantics@npm:^4.1.0":
   version: 4.1.0
