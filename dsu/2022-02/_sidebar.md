@@ -1,0 +1,4 @@
+- [신경망 이론](dsu/2022-02/%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%B4%EB%A1%A0/)
+- [자료구조및알고리즘](dsu/2022-02/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%B0%8F%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/)
+- [AI모델분석및설계](dsu/2022-02/AI모델분석및설계/)
+- [Global Issues](dsu/2022-02/Global%20Issues/)
