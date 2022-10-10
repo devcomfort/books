@@ -700,6 +700,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dsu@workspace:books/dsu":
+  version: 0.0.0-use.local
+  resolution: "dsu@workspace:books/dsu"
+  dependencies:
+    docsify-cli: ^4.4.4
+  languageName: unknown
+  linkType: soft
+
 "duplexer3@npm:^0.1.4":
   version: 0.1.5
   resolution: "duplexer3@npm:0.1.5"
