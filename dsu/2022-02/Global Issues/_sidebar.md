@@ -20,8 +20,8 @@
 **수업 자료 (09.16)**
 
 - <a href="dsu/2022-02/Global Issues/files/Introduction to Fallacies - no answers.docx" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" download>Introduction to Fallacies - no answers.docx</a>
-- <a href="dsu/2022-02/Global Issues/files/Introduction to Fallacies - no answers.pdf" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" download>Introduction to Fallacies - no answers.pdf</a>
-- <a href="dsu/2022-02/Global Issues/files/Misleaders.docx" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" target="_blank">Misleaders.docx</a>
+- <a href="dsu/2022-02/Global Issues/files/Introduction to Fallacies - no answers.pdf" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)">Introduction to Fallacies - no answers.pdf</a>
+- <a href="dsu/2022-02/Global Issues/files/Misleaders.docx" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" download>Misleaders.docx</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders.pdf" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" target="_blank">Misleaders.pdf</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders-1.docx" title="Answers to “Misleaders”" download>Misleaders-1.docx (Answers)</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders-1.pdf" title="Answers to “Misleaders”" target="_blank">Misleaders-1.pdf (Answers)</a>
@@ -48,7 +48,7 @@
 - <a href="dsu/2022-02/Glboal Issues/files/America's Biggest Source Countries - 2018-2019 - Class Answers.pdf" target="_blank">America's Biggest Source Countries - 2018-2019 - Class Answers.pdf</a>
 - <a href="dsu/2022-02/Global Issues/files/Source Countries.docx" download>Source Countries.docx</a>
 - <a href="dsu/2022-02/Global Issues/files/Source Countries.pdf" target="_blank">Source Countries.pdf</a>
-- <a href="dsu/2022-02/Global Issues/files/Misleaders.docx" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" target="_blank">Misleaders.docx</a>
+- <a href="dsu/2022-02/Global Issues/files/Misleaders.docx" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" download>Misleaders.docx</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders.pdf" title="Activities for Sept. 16th (9월 16일 수업 활동 자료)" target="_blank">Misleaders.pdf</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders-1.docx" title="Answers to “Misleaders”" download>Misleaders-1.docx (Answers)</a>
 - <a href="dsu/2022-02/Global Issues/files/Misleaders-1.pdf" title="Answers to “Misleaders”" target="_blank">Misleaders-1.pdf (Answers)</a>
@@ -60,5 +60,5 @@
 - <a href="dsu/2022-02/Global Issues/files/How Much of a Feminist Are You.docx" download>How Much of a Feminist Are You.docx</a>
 - <a href="dsu/2022-02/Global Issues/files/How Much of a Feminist Are You.pdf" target="_blank">How Much of a Feminist Are You.pdf</a>
 - <a href="dsu/2022-02/Global Issues/files/How Much of a Feminist Are You - with vocabulary answers.docx" download>How Much of a Feminist Are You - with vocabulary answers.docx</a>
-- <a href="dsu/2022-02/Global Issues/files/How Much of a Feminist Are You - with vocabulary answers.pdf" download>How Much of a Feminist Are You - with vocabulary answers.pdf</a>
+- <a href="dsu/2022-02/Global Issues/files/How Much of a Feminist Are You - with vocabulary answers.pdf" >How Much of a Feminist Are You - with vocabulary answers.pdf</a>
 - <a href="https://www.youtube.com/watch?v=L3-YOOYOxEw" target="_blank">YouTube: How Much Of A Feminist Are You?</a>
