@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "docsify-cli": "^4.4.4",
+    "docsify-fulltextsearch": "^1.1.1",
     "global": "^4.4.0"
   },
   "scripts": {
